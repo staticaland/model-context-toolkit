@@ -38,4 +38,3 @@ The Idea Compass is structured as follows: Imagine the four compass directions. 
 Imagine you are linking to other similar Wikipedia-style articles that focus on one main idea. These "articles" should be broad and brief in title. What are some possible X links you could make?
 
 Please explain your reason for choice for each link.
-

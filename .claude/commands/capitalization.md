@@ -12,20 +12,24 @@ Use proper capitalization following American English rules. Avoid unnecessary ca
 ## Examples
 
 **Titles and headings:**
+
 - "Getting started with the API" (not "Getting Started With The API")
 - "Database configuration options" (not "Database Configuration Options")
 
 **After colons:**
+
 - "Popular frameworks: React and Vue" (proper nouns capitalized)
 - "Team motto: 'Ship fast, break things'" (quotations capitalized)
 - "Remember this: always test your code" (regular text lowercase)
 
 **Lists:**
+
 - Configure the database connection
-- Set up user authentication  
+- Set up user authentication
 - Deploy to production
 
 **Avoid style names:**
+
 - Say "Use no spaces and capitalize each word—for example, UserAccount"
 - Don't say "Use camelCase format"
 

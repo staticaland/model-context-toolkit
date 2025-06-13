@@ -21,10 +21,12 @@ Use active voice (where the subject performs the action) instead of passive voic
 Use passive voice in these specific cases:
 
 - **To emphasize an object over an action:**
+
   - The credentials are encrypted.
   - User data is backed up nightly.
 
 - **To de-emphasize a subject or actor:**
+
   - Multiple vulnerabilities were discovered during testing.
   - The feature was deprecated in version 2.0.
 
